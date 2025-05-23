@@ -1,5 +1,5 @@
 -- // // // this script may help you in creating your own scripts // // // --
-
+-- v-1.0
 -- Instances:
 
 local SynapseXHelper = Instance.new("ScreenGui")
