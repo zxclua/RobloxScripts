@@ -188,7 +188,7 @@ RSPY.MouseButton1Click:Connect(function()
 end)
 
 DEXSEC.MouseButton1Click:Connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nuIIism/scripts/main/dex.lua"))()
 end)
 
 
